@@ -13,3 +13,8 @@ En este proyecto final del Bootcamp, se realizará un proceso de ETL para un con
 4. PyMongo
 5. Metabase (Dashboards)
 
+
+## Diagrama ER
+<img src="./mercado-free.svg" width="450" style="margin-top: 2rem">
+
+

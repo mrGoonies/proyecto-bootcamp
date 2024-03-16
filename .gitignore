@@ -1,4 +1,5 @@
 # pixi environments
 .pixi
 __pycache__
+.env
 

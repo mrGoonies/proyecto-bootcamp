@@ -1,13 +1,15 @@
 [project]
 name = "etl-project"
 version = "0.1.0"
-description = "Add a short description here"
+description = "Bootcamp projecto for Data engineering"
 authors = ["mrGoonies <gooniesdev@gmail.com>"]
 channels = ["conda-forge"]
 platforms = ["win-64"]
 
 [tasks]
 dev = "cd app && uvicorn main:app"
+check = "ruff check"
+format = "ruff format"
 
 [dependencies]
 fastapi = ">=0.110.0,<0.111"

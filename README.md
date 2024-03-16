@@ -17,4 +17,16 @@ Mercado Free es una empresa de E-commerce que se dedica a la venta de productos 
 ## Diagrama ER
 <img src="./mercado-free.svg" width="450" style="margin-top: 2rem">
 
+## Servicios a utilizar
+
+1. AWS S3
+2. AWS EC2
+3. Azure PostgreSQL
+4. Metabase
+
+## Flujo de procesos
+
+<img src="./workflow.png" width="450" style="margin-top: 2rem">
+
+
 

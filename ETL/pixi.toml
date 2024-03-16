@@ -7,7 +7,7 @@ channels = ["conda-forge"]
 platforms = ["win-64"]
 
 [tasks]
-dev = "cd app && uvicorn main:app"
+dev = "cd app && uvicorn main:app --reload"
 check = "ruff check"
 format = "ruff format"
 

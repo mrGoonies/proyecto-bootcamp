@@ -2,3 +2,4 @@ fastapi
 uvicorn
 ruff
 python-dotenv
+psycopg2
